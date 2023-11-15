@@ -315,7 +315,7 @@ body {
 .main {
   /* width: 59.3%;  
   width: 1119px;*/
-  width: clamp(700px, 100%, 1119px);
+  width: clamp(700px, 100%, 1000px);
 
   display: flex;
   gap: 7.8125rem;
