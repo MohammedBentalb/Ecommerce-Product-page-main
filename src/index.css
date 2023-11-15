@@ -570,10 +570,11 @@ body {
   font-weight: 700;
   border-radius: 10px;
   cursor: pointer;
+  box-shadow: 0px 20px 50px -20px #ff7e1b;
+
 }
 
 .purchase > button:hover {
-  box-shadow: 0px 20px 50px -20px #ff7e1b;
   background-color: var(--color-primary-paleOrange);
 }
 
