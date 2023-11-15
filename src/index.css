@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 :root {
   --color-primary-orange: hsl(26, 100%, 55%);
   --color-primary-paleOrange: hsl(25, 100%, 94%);
@@ -206,7 +207,7 @@ body {
   display: flex;
   justify-content: center;
 }
-.cart-number-rel{
+.cart-number-rel {
   position: relative;
 }
 .item-number {
@@ -269,7 +270,7 @@ body {
   transform: translate(-50%, 0%);
   opacity: 1;
 }
-.cart-prices p:nth-child(2){
+.cart-prices p:nth-child(2) {
   font-weight: 700;
 }
 
