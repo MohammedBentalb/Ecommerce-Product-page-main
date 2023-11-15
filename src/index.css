@@ -315,20 +315,30 @@ body {
 .main {
   /* width: 59.3%;  
   width: 1119px;*/
-  width: clamp(700px, 60.9%, 1119px);
+  width: clamp(700px, 100%, 1119px);
 
   display: flex;
-  gap: 2rem;
+  gap: 7.8125rem;
   align-items: center;
   justify-content: space-around;
   margin: 0 auto;
   margin-top: 5.625rem;
   margin-bottom: 3rem;
+  padding-inline: 1rem;
 }
-
-@media (max-width: 927px) {
+@media (max-width: 1400px) {
+  .main {
+    gap: 1rem;
+  }
+}
+@media (max-width: 940px) {
   .main {
     flex-wrap: wrap;
+  }
+}
+@media (max-width: 900px) {
+  .main {
+    padding-inline: 0;
   }
 }
 
