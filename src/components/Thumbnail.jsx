@@ -15,6 +15,7 @@ function Thumbnail({ setPreview }) {
             width={445}
             height={445}
             key={index}
+            loading="lazy"
             style={{
               transform: `translateX(${imgIndex * -100}%)`,
             }}

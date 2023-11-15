@@ -48,7 +48,7 @@ function Purchase() {
         </button>
       </div>
       <button
-        aria-label="Add to cart"
+        aria-label="Add item to shopping cart"
         name="add"
         onClick={() => {
           if (numberOfItem > 0) addToCart(item);
