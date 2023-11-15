@@ -64,8 +64,8 @@ function NavBar() {
           <img
             src={avatar}
             alt="profile"
-            width={50}
-            height={50}
+            width={54}
+            height={54}
             className="avatar"
           />
         </div>

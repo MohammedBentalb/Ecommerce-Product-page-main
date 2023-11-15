@@ -19,7 +19,7 @@ function Content() {
         </p>
         <div className="promo-div">
           <div className="price">
-            <h1>{currencyFormatter(150)}</h1>
+            <h1>{currencyFormatter(125)}</h1>
             <h2>50%</h2>
           </div>
           <h2>
