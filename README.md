@@ -20,3 +20,20 @@ Your users should be able to:
 - Switch the large product image by clicking on the small thumbnail images
 - Add items to the cart
 - View the cart and remove items from it
+
+## Preview :
+
+- https://mohammedbentalb.github.io/Ecommerce-Product-page-main/
+
+### Notes :
+
+- images are slightly big , performance on mobile is a bit affected
+
+## Page Insights :
+
+- https://pagespeed.web.dev/analysis/https-mohammedbentalb-github-io-Ecommerce-Product-page-main/g52cvqcc0t?form_factor=desktop
+
+- `100%` SEO
+- `100%` Best Practices
+- `91%` Accessibility
+- `99%` Performance / `71%` Performance (_mobile_)
