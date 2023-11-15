@@ -78,6 +78,7 @@ body {
 }
 .burger {
   display: none;
+  cursor: pointer;
 }
 
 .nav-list {
